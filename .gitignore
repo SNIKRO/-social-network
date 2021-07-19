@@ -1,3 +1,4 @@
 .idea
 virt
 config.json
+__pycache__
